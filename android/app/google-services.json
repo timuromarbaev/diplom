@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1020078027836",
+    "project_id": "language-recognition-free",
+    "storage_bucket": "language-recognition-free.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020078027836:android:ce23bf7bd833cafa83bf39",
+        "android_client_info": {
+          "package_name": "com.example.language_detection_diplom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020078027836-mt5ff14of1pdr5fn5e5eltidlhsfd47q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DRcPIV823s5k5pKQDs_DTXDcuown3KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020078027836-mt5ff14of1pdr5fn5e5eltidlhsfd47q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020078027836-edhi5vd5d8c95ho136ehe3jrgc1m093s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.languageDetectionDiplom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
